@@ -21,7 +21,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
