@@ -1,5 +1,4 @@
 
-
 ## Olá! Eu sou o Yago Mendes 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzwMKmbKMgqnSckgdqpKtfPMBkxvpbHTZXbrXKBPHdXfwHtDRPKZLNFQbFVkWfhGwKtg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/)
@@ -7,8 +6,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="200" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
