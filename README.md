@@ -1,6 +1,13 @@
 
 ## Olá! Eu sou o Yago Mendes 👋
 
+ Sobre mim:
+ 
+ -Cursando Ciência da Computação (UNA)
+ -Apaixonado por Javascript 
+ -Focado em Back-End
+
+
 Minhas Redes: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzwMKmbKMgqnSckgdqpKtfPMBkxvpbHTZXbrXKBPHdXfwHtDRPKZLNFQbFVkWfhGwKtg)
