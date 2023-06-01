@@ -3,8 +3,10 @@
 
  Sobre mim:
  
- -Cursando Ciência da Computação (UNA)
+-Cursando Ciência da Computação (UNA)
+
 -Apaixonado por Javascript 
+
 -Focado em Back-End
 
 
