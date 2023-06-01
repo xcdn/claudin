@@ -1,13 +1,13 @@
 
 ## Olá! Eu sou o Yago Mendes 👋
 
- ## Sobre mim:
+ ## 👨‍💻 Sobre mim:
  
--Cursando Ciência da Computação (UNA)
+Cursando Ciência da Computação (UNA)
 
--Apaixonado por Javascript 
+Apaixonado por Javascript
 
--Focado em Back-End
+Focado em Back-End
 
 ## Minhas Redes: 
 
