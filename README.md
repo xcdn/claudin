@@ -16,7 +16,7 @@ Focado em Back-End
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
 
 ## <h1 align="center">Melhores Tecnologias <3</h1>
-<img align="left" height="350" alt="coding-time" src="code.gif">
+<img align="left" height="270" alt="coding-time" src="code.gif">
 <div style="display: inline_block"><br/>
 <img align="Center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="Center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /
