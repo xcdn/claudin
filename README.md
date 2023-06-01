@@ -3,9 +3,9 @@
 
 ## 👨‍💻 Sobre mim:
  
-<li>Cursando Ciência da Computação (UNA)
-<li>Apaixonado por Javascript
-<li>Focado em Back-End<li>
+   <li>Cursando Ciência da Computação (UNA)
+   <li>Apaixonado por Javascript
+   <li>Focado em Back-End<li>
 
 ## Minhas Redes: 
 
