@@ -4,9 +4,8 @@
  Sobre mim:
  
  -Cursando Ciência da Computação (UNA)
-
 -Apaixonado por Javascript 
- -Focado em Back-End
+-Focado em Back-End
 
 
 Minhas Redes: 
