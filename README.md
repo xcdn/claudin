@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats:
 <div align="left">  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=tokyonight" alt="Yago Mendes GitHub Stats" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=tokyonight" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
