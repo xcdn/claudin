@@ -13,7 +13,7 @@
 
 ## GitHub Stats:
 <div align="left">  
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=truelocale=en&theme=tokyonight" alt="Yago Mendes github stats" /> <img width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&&theme=tokyonight" alt="DevMendes21" /></p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=truelocale=en&theme=tokyonight" alt="Yago Mendes github stats" /> <img width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&&theme=tokyonight" alt="DevMendes21" /></p>
 </div>
 
 
