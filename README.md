@@ -1,60 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Yago+Mendes;I'm+21+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BA5FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+YAGO+MENDES;I'm+21+years+old;I'm+from+Brazil,+MG;I+study+Computer+Science+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About Me:
-<div align="left">
-   <li>Studying Computer Science (UNA)
-   <li>Working for the company Haaify
-   <li>Passionate about Javascript
-   <li>Focused on Back-End
-      
+- Studying Computer Science at UNA
+- Working for the company Haaify
+- Passionate about JavaScript
+- Focused on Back-End Development
+
 ## My Connections: 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzwMKmbKMgqnSckgdqpKtfPMBkxvpbHTZXbrXKBPHdXfwHtDRPKZLNFQbFVkWfhGwKtg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
+
+## GitHub Stats:
 <div align="left">  
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzwMKmbKMgqnSckgdqpKtfPMBkxvpbHTZXbrXKBPHdXfwHtDRPKZLNFQbFVkWfhGwKtg" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/yago-mendes-328b5923b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.instagram.com/yg_mendes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=truelocale=en&theme=tokyonight" alt="Yago Mendes github stats" /> <img width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&&theme=tokyonight" alt="DevMendes21" /></p>
 </div>
 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yago Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevMendes21&theme=react-dark)](https://github.com/DevMendes21/github-readme-activity-graph)
 
-   ### Main skills:
-   ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D111)&nbsp;
-   ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D111)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+## 💻 Main Skills:
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 
-### Tools:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+## 🛠️ Tools:
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![KaliLinux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
 
-### Other Knowledge:
-  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-  ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=)&nbsp;
-  ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
-  ![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-   
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+## 🎓 Other Knowledge:
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevMendes21}/count.svg" /></p> 
-<br></div>
-  
+## 🌱 I’m currently learning:
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div align="center">
+   <p><b>Visitors Count</b></p>  
+   <img src="https://profile-counter.glitch.me/{DevMendes21}/count.svg" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2BA5FFFF&height=120&section=footer"/>
