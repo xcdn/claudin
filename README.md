@@ -1,19 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BA5FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+YAGO+MENDES;I'm+21+years+old;I'm+from+Brazil,+MG;I+study+Computer+Science+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## About Me:
-- Studying Computer Science at UNA
-- Working for the company Haaify
-- Passionate about JavaScript
-- Focused on Back-End Development
+## 📚 About Me
+- **Studying:** Computer Science at UNA.
+- **Working:** Software Developer at Haaify.
+- **Passionate About:** JavaScript and back-end development.
+- **Learning:** Always exploring new technologies and enhancing my skills in JavaScript, Node.js, and more.
 
-## My Connections: 
+## 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzwMKmbKMgqnSckgdqpKtfPMBkxvpbHTZXbrXKBPHdXfwHtDRPKZLNFQbFVkWfhGwKtg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 <div align="left">  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=truelocale=en&theme=tokyonight" alt="Yago Mendes github stats" /> <img width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&&theme=tokyonight" alt="DevMendes21" /></p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=tokyonight" alt="Yago Mendes GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
