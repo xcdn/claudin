@@ -1,7 +1,5 @@
 
-
-![2222](https://nztcdn.com/files/75ed26d3-872c-498b-8f52-bed61f386f7f.webp)
-
+![header](https://github.com/Abcreed21/Web-Tech-Notes/assets/120439256/e8bdde18-25a9-41c0-91a7-dee22310319b)
 
 <h1 align="center">Auto bot banana</h1>
 
